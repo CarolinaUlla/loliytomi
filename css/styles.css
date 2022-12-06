@@ -8206,7 +8206,10 @@ textarea.form-control-lg {
 
 .bg-black {
   --bs-bg-opacity: 1;
-  background-color: #DFE2B1;
+
+
+  background-color: beige;
+
   margin-bottom: 50px;
 }
 
@@ -11842,7 +11845,7 @@ margin-bottom: 20px;
 }
 
 .projects-section {
-  padding: 2rem 0;
+  padding: 4rem 0;
 }
 .projects-section .featured-text {
   padding-top: 1rem;
